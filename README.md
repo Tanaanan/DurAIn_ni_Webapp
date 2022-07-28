@@ -16,3 +16,4 @@ How to run on localhost (Streamlit).
 
 ** Supported only on Linux and MacOS (Windows use WSL to executed instead.)
 
+Developed by Tanaanan .M (inspired by Napassakorn .S and Jeerapat .S)
