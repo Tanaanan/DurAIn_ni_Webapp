@@ -13,5 +13,6 @@ How to run on localhost (Streamlit).
 - Run "Python[Version] -m streamlit run DurAIn_Webapp.py" on terminal
 
 ** Supported on Python 3.7 to 3.9 (This Webapp have been tested on Python 3.7.13, 3.8.10, 3.9.10)
+
 ** Supported only on Linux and MacOS (Windows use WSL to executed instead.)
 
