@@ -1,4 +1,4 @@
-# DurAIn_ni_Webapp-
+# DurAIn_ni_Webapp
 
 DurAIn-ni is an application that use to detect disease of durian by using leaf and give basic treatment advice. 
 
