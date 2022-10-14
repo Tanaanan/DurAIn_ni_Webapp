@@ -4,9 +4,9 @@ DurAIn-ni is an application that use to detect disease of durian by using leaf a
 
 Model link (if LFS can't download) : https://mega.nz/file/mkcggBwZ#hZq3KHC_ufllk8FfLxomea6zRhIfkuUQhwaXUSX7TI8
 
-Webapp on Server (EC2)
+Webapp on Server (Huggingface space)
 
-- http://3.0.184.218/
+- https://huggingface.co/spaces/Tanaanan/DurAIn_ni
 
 How to run on localhost (Streamlit).
 
